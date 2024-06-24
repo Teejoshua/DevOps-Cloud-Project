@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 # Capstone Project (Cloud DevOps Engineer)
 
-Capstone Task develop a CI/CD pipeline for micro services applications with either blue/green deployment or rolling deployment.
+Capstone Task: 
+Below are the steps carried out to develop a CI/CD pipeline for micro services applications with either blue/green deployment or rolling deployment.
 
 ## CI CD Pipeline
 

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Capstone Project (Cloud DevOps Engineer)
 
 Capstone Task: 
@@ -81,7 +81,7 @@ Hello world application running:
 ![Application running in AWS](./img/08-applicationRunning.png
 
 <h3>Author</h3>
-<a href = "https://github.com/qasim1020/Capstone-Project-Devops">GitHub</a>
+<a href = "https://github.com/teejoshua/DevOps-Cloud-Project">GitHub</a>
 =======
-# Cloud-DevOps-Project
->>>>>>> 8d90b6fa14c86842745b2fb232301f61e8b29d89
+# DevOps-Cloud-Project Finalized
+

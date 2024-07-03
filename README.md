@@ -81,7 +81,6 @@ Hello world application running:
 ![Application running in AWS](./img/08-applicationRunning.png
 
 <h3>Author</h3>
-<a href = "https://github.com/teejoshua/DevOps-Cloud-Project">GitHub</a>
-=======
-# DevOps-Cloud-Project Finalized
+<a href = "https://github.com/teejoshua/DevOps-Cloud-Project">Teejoshua</a>
+
 
